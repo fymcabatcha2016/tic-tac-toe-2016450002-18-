@@ -1,3 +1,6 @@
+span{
+    font-size: 7em;
+}
 .wrapper{
     display: flex;
     justify-content: space-around
